@@ -1,9 +1,9 @@
-*.class
+//*.class
 
-# Package Files #
-*.jar
-*.war
-*.ear
+//# Package Files #
+//*.jar
+//*.war
+//*.ear
 
 import java.awt.*;
 import java.awt.event.*;
